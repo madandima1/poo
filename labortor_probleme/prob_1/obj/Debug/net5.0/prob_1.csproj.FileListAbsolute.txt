@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/prob_1
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/prob_1.deps.json
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/prob_1.runtimeconfig.json
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/prob_1.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/prob_1.dll
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/ref/prob_1.dll
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/bin/Debug/net5.0/prob_1.pdb
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.AssemblyInfo.cs
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.dll
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/ref/prob_1.dll
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.pdb
+/home/eugen/Documents/Poo/labortor_probleme/prob_1/obj/Debug/net5.0/prob_1.genruntimeconfig.cache

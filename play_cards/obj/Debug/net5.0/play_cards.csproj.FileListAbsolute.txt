@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/play_cards
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/play_cards.deps.json
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/play_cards.runtimeconfig.json
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/play_cards.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/play_cards.dll
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/ref/play_cards.dll
+/home/eugen/Documents/Poo/play_cards/bin/Debug/net5.0/play_cards.pdb
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.AssemblyInfo.cs
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.dll
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/ref/play_cards.dll
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.pdb
+/home/eugen/Documents/Poo/play_cards/obj/Debug/net5.0/play_cards.genruntimeconfig.cache
