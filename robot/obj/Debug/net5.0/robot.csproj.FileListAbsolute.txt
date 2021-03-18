@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/robot
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/robot.deps.json
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/robot.runtimeconfig.json
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/robot.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/robot.dll
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/ref/robot.dll
+/home/eugen/Documents/Poo/robot/bin/Debug/net5.0/robot.pdb
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.AssemblyInfo.cs
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.dll
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/ref/robot.dll
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.pdb
+/home/eugen/Documents/Poo/robot/obj/Debug/net5.0/robot.genruntimeconfig.cache

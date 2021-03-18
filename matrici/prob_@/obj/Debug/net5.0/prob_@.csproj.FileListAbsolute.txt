@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.AssemblyInfo.cs
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/prob_@
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/prob_@.deps.json
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/prob_@.runtimeconfig.json
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/prob_@.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/prob_@.dll
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/ref/prob_@.dll
+/home/eugen/Documents/Poo/matrici/prob_@/bin/Debug/net5.0/prob_@.pdb
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.dll
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/ref/prob_@.dll
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.pdb
+/home/eugen/Documents/Poo/matrici/prob_@/obj/Debug/net5.0/prob_@.genruntimeconfig.cache

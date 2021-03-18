@@ -6,8 +6,13 @@ namespace play_cards
     {
         static void Main(string[] args)
         {
-           Card card = new Card(11, 1);
-            card.print();
+            Deck deck=new Deck();
+            deck.PrintDeck();
+            System.Console.WriteLine();
+            Console.ReadKey();
+            deck.shuffle();
+            //deck.Draw(); are overload fara parametru un singur draw cu parametru un int x draw
+        
         }
     }
 }

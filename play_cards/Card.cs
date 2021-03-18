@@ -1,36 +1,64 @@
-using System;
-using System.Collections.Generic;
-namespace play_cards
+public class Card
 {
-    public class Card
+    public enum Suits
     {
-        private int rank;
-        private int suit;
-        private static String [] suits =new string[4]{"Clubs","Diamonds","Hearts","Spades"};
-        private static String [] ranks = new string []{null, "Ace", "2" ,"3","4", "5","6","7","8"
-            ,"9","10", "Jack","Queen","King"};
-        /*
-        Ace>>>>>>1          Clubs-----0
-        Queen>>>>12         Diamonds--1
-        King>>>>13          Hearts----2
-        Jack>>>11           Spades----3*/
-        public Card (int rank, int suit)
-        {   
-            this.rank=rank;
-            this.suit=suit;
-        }
-        public int getRank()
-        {
-            return this.rank;
-        }
+        Hearts = 0,
+        Diamonds,
+        Clubs,
+        Spades
+    }
 
-        public int getSuit() 
+    public int Value
+    {
+        get;
+        set;
+    }
+
+    public Suits Suite
+    {
+        get;
+        set;
+    }
+
+    public string NamedValue
+    {
+        get
         {
-            return this.suit;
+            string name = string.Empty;
+            switch (Value)
+            {
+                case (14):
+                    name = "Ace";
+                    break;
+                case (13):
+                    name = "King";
+                    break;
+                case (12):
+                    name = "Queen";
+                    break;
+                case (11):
+                    name = "Jack";
+                    break;
+                default:
+                    name = Value.ToString();
+                    break;
+            }
+
+            return name;
         }
-        public void print()
+    }
+
+    public string Name
+    {
+        get
         {
-            System.Console.WriteLine(ranks[rank] + " of "+suits[suit]);
+            return NamedValue + " of  " + Suite.ToString();
         }
+    }
+
+    public Card(int Value, Suits Suite)
+    {
+        this.Value = Value;
+        this.Suite = Suite;
     }
 }
