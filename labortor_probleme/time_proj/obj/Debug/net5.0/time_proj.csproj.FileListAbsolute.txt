@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.AssemblyInfo.cs
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/time_proj
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/time_proj.deps.json
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/time_proj.runtimeconfig.json
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/time_proj.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/time_proj.dll
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/ref/time_proj.dll
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/bin/Debug/net5.0/time_proj.pdb
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.dll
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/ref/time_proj.dll
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.pdb
+/home/eugen/Documents/Poo/labortor_probleme/time_proj/obj/Debug/net5.0/time_proj.genruntimeconfig.cache
