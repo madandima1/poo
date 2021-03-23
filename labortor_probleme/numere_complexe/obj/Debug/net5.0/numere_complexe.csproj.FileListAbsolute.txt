@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/numere_complexe
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/numere_complexe.deps.json
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/numere_complexe.runtimeconfig.json
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/numere_complexe.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/numere_complexe.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/ref/numere_complexe.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/bin/Debug/net5.0/numere_complexe.pdb
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.AssemblyInfo.cs
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/ref/numere_complexe.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.pdb
+/home/eugen/Documents/Poo/labortor_probleme/numere_complexe/obj/Debug/net5.0/numere_complexe.genruntimeconfig.cache
