@@ -72,7 +72,7 @@ namespace time_proj
             }
         }
 
-        public Time scadere(Time a, Time b)
+        public void scadere(Time a, Time b)
         {
             Time result = new Time();
             result.ore = a.ore - b.ore;
@@ -82,9 +82,9 @@ namespace time_proj
                 result.secunde = a.secunde - b.secunde;
             result.sutimi = a.sutimi - b.sutimi;
             transfer(result);
-            return result;
+            _print(result);
         }
-        public Time adunare(Time a, Time b)
+        public void adunare(Time a, Time b)
         {
             Time result = new Time();
             result.ore = a.ore + b.ore;
@@ -92,7 +92,7 @@ namespace time_proj
             result.secunde = a.secunde + b.secunde;
             result.sutimi = a.sutimi + b.sutimi;
             transfer(result);
-            return result;
+            _print(result);
         }
         public bool logic_operators(string semnul_logic, Time a, Time b)
         {
@@ -149,6 +149,13 @@ namespace time_proj
             System.Console.WriteLine($"Minute : {minute}");
             System.Console.WriteLine($"Sucunde : {secunde}");
             System.Console.WriteLine($"Sutimi : {sutimi}");
+        }
+        private void _print(Time a)
+        {
+            System.Console.WriteLine($"Ore : {a.ore}");
+            System.Console.WriteLine($"Minute : {a.minute}");
+            System.Console.WriteLine($"Sucunde : {a.secunde}");
+            System.Console.WriteLine($"Sutimi : {a.sutimi}");
         }
 
     }

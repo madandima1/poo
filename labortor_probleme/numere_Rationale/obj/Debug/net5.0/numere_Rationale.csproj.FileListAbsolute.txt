@@ -1,0 +1,16 @@
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.csprojAssemblyReference.cache
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.AssemblyInfoInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.AssemblyInfo.cs
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.csproj.CoreCompileInputs.cache
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/numere_Rationale
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/numere_Rationale.deps.json
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/numere_Rationale.runtimeconfig.json
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/numere_Rationale.runtimeconfig.dev.json
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/numere_Rationale.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/ref/numere_Rationale.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/bin/Debug/net5.0/numere_Rationale.pdb
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/ref/numere_Rationale.dll
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.pdb
+/home/eugen/Documents/Poo/labortor_probleme/numere_Rationale/obj/Debug/net5.0/numere_Rationale.genruntimeconfig.cache

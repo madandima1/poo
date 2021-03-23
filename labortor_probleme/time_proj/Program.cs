@@ -12,10 +12,10 @@ namespace time_proj
             Time b= new Time("0:10:20:30");
             b.print();
             Time result = new Time();
-            result=result.scadere(a,b);
+            result.scadere(a,b);
             result.print();
             System.Console.WriteLine();
-            result=result.adunare(a,b);
+            result.adunare(a,b);
             result.print();
         }
     }
