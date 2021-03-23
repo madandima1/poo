@@ -1,16 +1,16 @@
+using System;
 namespace geometry_proj
 {
     public class Segment
     {
-        public struct segment {
-            Point A,B;
-        }
-        static random rnd = new random();
+       public Point A,B;
+        static Random rnd = new Random();
         public Segment( )
         {
-            Point A = new Point(rnd.Next(0,200),rnd.Next(0,200));
-            Point B = new Point(rnd.Next(0,200),rnd.Next(0,200));
-            segment s = new segment(A,B);
+            A.X = rnd.Next(0,200);
+            A.Y = rnd.Next(0,200);
+            B.X = rnd.Next(0,200);
+            B.Y = rnd.Next(0,200);
         }
         /*
         stuff

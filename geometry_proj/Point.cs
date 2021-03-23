@@ -2,17 +2,10 @@ namespace geometry_proj
 {
     public class Point
     {
-        public struct point 
-        {
-            int X,Y;
-        }
-        public struct point 
-        {
-            float X,Y;
-        }
+        public int X,Y;
         public Point(int X, int Y)
         {
-            Point point = new Point(x,y);// int point
+            Point point = new Point(X,Y);// int point
         }
         public Point(float x, float y)
         {
